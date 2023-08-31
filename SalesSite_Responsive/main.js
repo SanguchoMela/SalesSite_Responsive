@@ -49,6 +49,7 @@ productList.push ({ name:'Tennis Montain Bike', price: 2200, image: 'https://ass
 productList.push ({ name:'Sunglasses', price: 800, image: 'https://cdn.siroko.com/s/files/1/1220/6874/products/gafas-siroko-tech-k3s-london-lateral/1200x/crop_center.jpg?v=1635209602' }); 
 productList.push ({ name:'Sunglasses', price: 600, image: 'https://cdn.siroko.com/s/files/1/1220/6874/products/siroko-tech-k3s-clearfog-lente-antiniebla-frontal/1200x/crop_center.jpg?v=1635209603' }); 
 productList.push ({ name:'Bicycle seat bag', price: 876, image: 'https://m.media-amazon.com/images/I/81k2Gmal+VL._AC_SL1500_.jpg' });
+productList.push ({ name:'Bike Holder', price: 14, image: 'https://m.media-amazon.com/images/I/61gie0yQDTL._AC_SL1500_.jpg'});
 
 function renderProducts(array){
     for(product of productList){
